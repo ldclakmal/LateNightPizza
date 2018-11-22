@@ -1,4 +1,4 @@
-package org.cse.cs4452;
+package org.uom.cse.cs4452;
 
 /**
  * @author Chanaka Lakmal
